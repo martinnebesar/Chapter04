@@ -1,0 +1,11 @@
+C:\Martin\Module 4\ConsoleApplication6\Ch04Ex03\Ch04Ex03\bin\Debug\netcoreapp2.1\Ch04Ex03.deps.json
+C:\Martin\Module 4\ConsoleApplication6\Ch04Ex03\Ch04Ex03\bin\Debug\netcoreapp2.1\Ch04Ex03.runtimeconfig.json
+C:\Martin\Module 4\ConsoleApplication6\Ch04Ex03\Ch04Ex03\bin\Debug\netcoreapp2.1\Ch04Ex03.runtimeconfig.dev.json
+C:\Martin\Module 4\ConsoleApplication6\Ch04Ex03\Ch04Ex03\bin\Debug\netcoreapp2.1\Ch04Ex03.dll
+C:\Martin\Module 4\ConsoleApplication6\Ch04Ex03\Ch04Ex03\bin\Debug\netcoreapp2.1\Ch04Ex03.pdb
+C:\Martin\Module 4\ConsoleApplication6\Ch04Ex03\Ch04Ex03\obj\Debug\netcoreapp2.1\Ch04Ex03.csprojAssemblyReference.cache
+C:\Martin\Module 4\ConsoleApplication6\Ch04Ex03\Ch04Ex03\obj\Debug\netcoreapp2.1\Ch04Ex03.csproj.CoreCompileInputs.cache
+C:\Martin\Module 4\ConsoleApplication6\Ch04Ex03\Ch04Ex03\obj\Debug\netcoreapp2.1\Ch04Ex03.AssemblyInfoInputs.cache
+C:\Martin\Module 4\ConsoleApplication6\Ch04Ex03\Ch04Ex03\obj\Debug\netcoreapp2.1\Ch04Ex03.AssemblyInfo.cs
+C:\Martin\Module 4\ConsoleApplication6\Ch04Ex03\Ch04Ex03\obj\Debug\netcoreapp2.1\Ch04Ex03.dll
+C:\Martin\Module 4\ConsoleApplication6\Ch04Ex03\Ch04Ex03\obj\Debug\netcoreapp2.1\Ch04Ex03.pdb
